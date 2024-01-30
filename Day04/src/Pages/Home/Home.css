@@ -1,0 +1,26 @@
+
+
+.main-sec {
+    background-color: #C9D7DD;
+    height: 70vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .text-container {
+    width: 50%;
+  }
+  
+  .image-container {
+    width: 50%;
+    text-align: right;
+  }
+  
+  img.custom {
+    width: 20vw;
+    height: 40vh;
+    border-radius: 50%;
+  }
+  
